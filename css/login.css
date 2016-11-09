@@ -1,0 +1,32 @@
+nav {
+    background-color: #424242;
+}
+
+.tabs .indicator {
+    position: absolute;
+    bottom: 0;
+    height: 2px;
+    background-color: #2298f2;
+    will-change: left, right;
+}
+
+.tabs .tab a {
+    color: gray;
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    transition: color .28s ease;
+}
+
+#logo{
+    margin-top: 15px;
+    width: 32px;
+    height: 32px;
+}
+
+#div1{
+    padding-left: 50%;
+}
+

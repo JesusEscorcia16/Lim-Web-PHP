@@ -1,0 +1,12 @@
+body{
+    background: url('../imgs/restore.jpg');
+    background-size: cover;
+}
+
+input{
+    width: 500px;
+}
+
+h1{
+    text-align: center;
+}

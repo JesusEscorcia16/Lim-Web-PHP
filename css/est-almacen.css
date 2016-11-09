@@ -1,0 +1,22 @@
+.txtInput{
+    background: transparent; 
+    border: 1px solid rgba(255,255,255,0.15); 
+    display: block; 
+    margin-bottom: 15px; 
+    font-weight: 400; 
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+#div1{
+    margin: auto;
+}
+
+#mapa{
+    width: 670px; 
+    height: 440px;
+}
+
+#td1{
+    background-color: #949494;
+}

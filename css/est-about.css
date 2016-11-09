@@ -1,0 +1,71 @@
+#body{
+    background: url(../imgs/about2.jpg)fixed;
+    background-size: cover;
+    margin: auto;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #777;
+    background-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+}
+
+#div1{
+    margin: auto;   
+    background: 0;
+    width: 60%;
+    height: 80%;
+    /*box-shadow: -8px -1px 192px 0px rgba(0,0,0,0.29);*/
+    padding: 6%;
+}
+
+.form-title{
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.form-p{
+     font-family: 'Open Sans' , sans-serif;
+     font-size: 15px;
+     color: white;
+}
+
+body{margin:40px;}
+
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+

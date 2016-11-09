@@ -1,0 +1,56 @@
+#buscar{
+    width: 56%;
+}
+
+th{
+    color: white;
+}
+
+#tab3{
+    width: 730px;
+}
+
+
+#td2{
+    padding: 10px;
+}
+
+#tdespacio{
+    padding-left: 220px;
+}
+
+#cant{
+    width: 70px;
+}
+
+#cate{
+    margin-left: 5px;
+}
+
+#cancelar{
+    width: 40px;
+}
+
+#descuento{
+    width: 100px;
+}
+
+#col2{
+    width: 200px;
+    padding: 0px;
+}
+
+#cuadrito{
+    width: 300px;
+}
+
+#btnlisto{
+    width: 180px;
+}
+
+#hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 0;
+    border-top: 1px solid darkgray;
+}

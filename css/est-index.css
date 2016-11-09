@@ -1,0 +1,236 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#btnNuevo{
+    border-radius: 10px;
+}
+
+#formProduct{
+    color: gray;
+}
+
+#tdformproduct{
+    padding-right: 8px;
+}
+
+#marca{
+    width: 300px;
+}
+
+.modal-body {
+    position: relative;
+    padding: 52px;
+}
+
+.input-group {
+    float: none;
+    padding: 0;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #777;
+    background-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #3b3b3b;
+    background-color: #f0f0f0;
+}
+
+.caret-up {
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-bottom: 4px solid;
+    
+    display: inline-block;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+
+#espacio{
+    height: 70px;
+}
+
+a:hover{
+    text-decoration:none; 
+}
+
+#slider{
+    margin: 0 auto;
+}
+
+.navbar{
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.container-fluid{
+    padding-right: 1%; 
+    padding-left: 30%;
+}
+
+.navbar-brand{
+    padding-left: 30%;
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 15px;
+    line-height: 20px; 
+}
+
+input{
+
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid #bebebe;
+}
+
+.panel{
+    border-radius: 0;
+}
+
+.panel-title{
+    color: white;
+}
+
+.panel-body{
+    color: #777;
+    font-size: 10px;
+}
+
+.panel-default>.panel-heading {
+    color: white;
+    background-color: #4093d6;
+}
+
+.form-control{
+    border-radius: 0;
+}
+
+.btn-primary{
+    width: 16%;
+    border-radius: 0;
+    margin-right: 0;
+}
+
+.btn-default{
+    width: 80%;
+    color: #787878;
+    text-align: left;
+}
+
+.btn-default:hover{
+    color: #787878;
+    background-color: #efefef;
+}
+
+#mas{
+    margin: 0 auto;
+}
+
+#btnCar {
+    border-radius: 0;
+    width: 45px;
+}
+.btn-success{
+    border-radius: 0; 
+}
+
+#fin{
+    background: #efefef;
+    color: #787878;
+    font-family: inherit;
+    padding: 2%;
+}
+
+#textofin{
+    margin: 0;
+    font-size: 13px;
+}
+
+#btnBuscar{
+    width: 100%;
+}
+
+.col-lg-3{
+    padding: 0;
+
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9 {
+    float: right;
+}
+
+
+
+hr {
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+
+
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+}
+#login-dp .help-block{
+    font-size:12px    
+}
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+#login-dp .social-buttons{
+    margin:12px 0    
+}
+#login-dp .social-buttons a{
+    width: 49%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color:#496ebc 
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:#59b5fa;
+}
+
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}

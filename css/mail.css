@@ -1,0 +1,21 @@
+nav {
+    background-color: #424242;
+}
+
+#logo{
+    margin-top: 15px;
+    width: 32px;
+    height: 32px;
+}
+
+td, th {
+    padding: 2px 2px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    border-radius: 2px;
+}
+
+.pagination li.active {
+    background-color: #424242;
+}

@@ -1,0 +1,27 @@
+body{
+    background: url('../imgs/settings.jpg');
+    background-size: cover;
+}
+
+#texto{
+    font-size: 15px;
+}
+
+#listo{
+    margin-left: 47%;
+}
+
+#td1{
+    padding: 8px; 
+
+}
+
+input{
+    width: 50px;
+}
+
+#tabla{
+    width: 650px;
+}
+
+
